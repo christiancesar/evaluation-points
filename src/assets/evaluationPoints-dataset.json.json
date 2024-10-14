@@ -1,0 +1,52 @@
+[
+  {
+    "id": "e8e69983-5c3c-48c4-9761-0b78629bf5f0",
+    "nome": "Christiansen, Torphy and Brown",
+    "country": "Brazil",
+    "city": "Rondonópolis",
+    "location": {
+      "latitude": 16.4409,
+      "longitude": 54.4376
+    }
+  },
+  {
+    "id": "ebe9dcca-1888-42ef-89b6-06462a4abdd9",
+    "nome": "Erdman LLC",
+    "country": "Brazil",
+    "city": "Rondonópolis",
+    "location": {
+      "latitude": 16.2152,
+      "longitude": 54.1223
+    }
+  },
+  {
+    "id": "6bac58b6-92a8-4939-bd99-679484a4c71e",
+    "nome": "Hessel - Tromp",
+    "country": "Brazil",
+    "city": "Rondonópolis",
+    "location": {
+      "latitude": 16.3907,
+      "longitude": 54.0105
+    }
+  },
+  {
+    "id": "5688d546-0249-4510-90f3-520228ccd447",
+    "nome": "Little, Brakus and Vandervort",
+    "country": "Brazil",
+    "city": "Rondonópolis",
+    "location": {
+      "latitude": 16.7496,
+      "longitude": 54.3115
+    }
+  },
+  {
+    "id": "a85e78fe-b0f5-4835-955d-f410bd7d4e86",
+    "nome": "Graham - Lang",
+    "country": "Brazil",
+    "city": "Rondonópolis",
+    "location": {
+      "latitude": 16.4888,
+      "longitude": 54.486
+    }
+  }
+]
