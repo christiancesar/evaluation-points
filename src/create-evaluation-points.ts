@@ -2,7 +2,7 @@ import { faker } from "@faker-js/faker";
 
 export type EvaluationPoint = {
   id: string;
-  nome: string;
+  name: string;
   country: string;
   city: string;
   location: {
@@ -11,9 +11,9 @@ export type EvaluationPoint = {
   };
 };
 
-export function createEvaluationPoints(): EvaluationPoint {
+export function createEvaluationPoints(customName?: string): EvaluationPoint {
   const id = faker.string.uuid();
-  const nome = faker.company.name();
+  const name = customName ?? faker.company.name();
   const country = "Brazil";
   const city = "Rondonópolis";
   const location = {
@@ -23,7 +23,7 @@ export function createEvaluationPoints(): EvaluationPoint {
 
   return {
     id,
-    nome,
+    name,
     country,
     city,
     location,
