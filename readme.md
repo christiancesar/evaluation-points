@@ -1,6 +1,7 @@
 ## Otimização e Complexidade de Algoritmos
 
 Docente: Rodrigo Brandao Mansilha
+
 Discentes: Christian Cesar, Elone Sampaio, Maysa Pereira e Sebastião Brito.
 
 ## Problema
