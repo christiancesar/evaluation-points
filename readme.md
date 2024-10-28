@@ -2,8 +2,16 @@
 
 Docente: Rodrigo Brandao Mansilha
 
-Discentes: Christian Cesar, Elone Sampaio, Maysa Pereira e Sebastião Brito.
+
+
+Grupo: Christian Cesar Rodrigues Santos, Elone Izata Goncalves Sampaio, Maysa Roberta de Souza Pereira e Sebastiao Pereira de Brito Junior
 
 ## Problema
 
-Uma instituição está promovendo um concurso em uma determinada cidade, para que as pessoas que iram fazer o concurso não se desloquem para distâncias longas, definimos pontos pela cidade, onde de acordo com sua localização, será destinada para o ponto mais próximo. Com isto tenho uma lista de 100mil concurseiros e preciso de um algoritmo de estrutura de dados que consiga fazer a divisão para essas localidades.
+Titulo: Ensalamento de salas para concursos municipais
+
+Problema: Otimização do Ponto de Avaliação para Participantes
+
+Entrada: Um conjunto S de n pontos de avaliação, cada um com coordenadas de latitude e longitude, e um conjunto Z de m participantes, também com suas respectivas coordenadas.
+
+Saída: Para cada participante, determine o ponto de avaliação, de forma que a distância total percorrida por todos seja minimizada, garantindo um percurso justo para cada um.
